@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320">
+  <rect width="100%" height="100%" fill="#040512" />
+  <g fill="#fff" font-family="Inter, sans-serif" text-anchor="middle">
+    <text x="450" y="88" font-size="26" font-weight="700">Stealth Scraper — Preview</text>
+    <text x="450" y="116" font-size="12" opacity="0.9">Proxy rotation • Playwright • Delivery</text>
+  </g>
+  <g transform="translate(60,160)" opacity="0.08"><rect x="0" y="0" width="780" height="120" rx="10" fill="#fff"/></g>
+  <g fill="#fff" opacity="0.95">
+    <rect x="90" y="190" width="220" height="14" rx="6" fill="#7c3aed" />
+    <rect x="330" y="190" width="220" height="14" rx="6" fill="#0ea5e9" />
+    <rect x="570" y="190" width="120" height="14" rx="6" fill="#f97316" />
+  </g>
+  <title>Stealth bot preview placeholder (sleek dark)</title>
+</svg>
